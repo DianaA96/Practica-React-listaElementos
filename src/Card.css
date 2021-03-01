@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+section #tarjeta {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0% 36% 0% 36%;
+    padding: 1% 1% 1% 1%;
+    border: none;
+    box-shadow: 0px 3px 5px 1px rgb(192, 192, 192);
+    border-radius: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  section #tipoDeTamalito {
+    font-weight: bolder;
+    font-size: 145%;
+    margin-bottom: 8%;
+    width: 100%;
+    padding-top: 5%;
+  }
+  
+  section #precioDelTamalito {
+    font-weight:normal;
+    font-size: 120%;
+    margin: 0% 0% 3% 0%;
+    padding-bottom: 8%;
+  }
+  
+  section #tarjeta #dulce {
+    align-self: center;
+    background-color: #FF77D9;
+    color: white;
+    font-weight: bolder;
+    font-size: 145%;
+    text-align: center;
+    width: 28%;
+    border-radius: 4px;
+    padding: 0%;
+    margin-bottom: 9%;
+    padding-left: 2%;
+    padding-right: 3%;
+  }
+  
+  #tarjeta #dulce p {
+    margin: 6% 0% 3% 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  section #tarjeta #picante {
+    align-self: center;
+    background-color: rgb(246, 3, 3);
+    color: white;
+    font-weight: bolder;
+    font-size: 145%;
+    text-align: center;
+    width: 28%;
+    border-radius: 4px;
+    padding: 0%;
+    margin-bottom: 9%;
+    padding-left: 2%;
+    padding-right: 3%;
+  }
+  
+  #tarjeta #picante p {
+    margin: 6% 0% 3% 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
